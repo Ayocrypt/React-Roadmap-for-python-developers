@@ -1,4 +1,5 @@
 # Frontend Development Roadmap for Python Developers
+![Frontend Development Roadmap](https://github.com/Ayocrypt/React-Roadmap-for-python-developers/blob/main/file-RHjzWaIYvjj9XwnX0xryMMjA%20(4).webp)
 
 This guide provides a step-by-step roadmap for Python developers looking to transition into frontend development. The focus is on learning the essentials of HTML, CSS, and JavaScript, followed by mastering React and Next.js for building modern web applications.
 
